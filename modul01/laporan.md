@@ -77,7 +77,7 @@ Pada file `soal1.pcap`, dapat dilihat beberapa protokol yang tertangkap. Berikut
 ### 4.4 Verifikasi Python
 Berikut adalah tangkapan layar Command Prompt/Terminal saat mengecek versi Python untuk memastikan tools siap digunakan pada modul selanjutnya (Modul 7 & 9).
 
-![Cek Python](images/python_version.png)
+![Cek Python](assets/python_version.png)
 *Gambar 4: Verifikasi instalasi Python melalui command line.*
 
 ---
