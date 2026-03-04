@@ -59,7 +59,7 @@ Berikut adalah langkah-langkah yang dilakukan selama praktikum Modul 1:
 ### 4.1 Tampilan Awal Wireshark
 Berikut adalah tampilan awal Wireshark sebelum membuka file trace. Terlihat daftar interface jaringan yang tersedia.
 
-![Tampilan Awal Wireshark](images/wireshark_home.png)
+![Tampilan Awal Wireshark](assets/wireshark_home.png)
 *Gambar 1: Tampilan awal Wireshark saat pertama kali dibuka.*
 
 ### 4.2 Membuka File soal1.pcap
