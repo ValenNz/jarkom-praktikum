@@ -72,31 +72,31 @@ Berikut adalah langkah-langkah yang dilakukan selama praktikum Modul 2 (Test Run
 ### 4.1 Tampilan Awal Wireshark
 Berikut adalah tampilan awal Wireshark saat pertama kali dibuka sebelum melakukan capture paket. Terlihat daftar interface jaringan yang tersedia.
 
-![Tampilan Awal Wireshark](asssets/)
+![Tampilan Awal Wireshark](assets/wireshark_home.png)
 *Gambar 1: Tampilan awal Wireshark (Welcome Screen).*
 
 ### 4.2 Memilih Interface Capture
 Jendela pemilihan interface untuk memulai pengambilan paket. Interface yang dipilih adalah interface yang sedang aktif digunakan untuk koneksi internet.
 
-![Pilih Interface](images/wireshark_interfaces.png)
+![Pilih Interface](assets/wireshark_interfaces.png)
 *Gambar 2: Jendela Capture Interfaces pada Wireshark.*
 
 ### 4.3 Hasil Capture Paket
 Setelah mengakses URL `http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html` dan menghentikan capture, berikut adalah daftar paket yang tertangkap. Terdapat banyak protokol yang berjalan di latar belakang meskipun hanya membuka satu halaman web.
 
-![Hasil Capture](images/wireshark_packet_list.png)
+![Hasil Capture](assets/wireshark_packet_list.png)
 *Gambar 3: Daftar paket (Packet List) setelah menghentikan capture.*
 
 ### 4.4 Filter Protokol HTTP
 Untuk memudahkan analisis, dilakukan filtering menggunakan kata kunci `http` pada display filter. Hanya paket yang berkaitan dengan protokol HTTP yang ditampilkan.
 
-![Filter HTTP](images/wireshark_http_filter.png)
+![Filter HTTP](assets/wireshark_http_filter.png)
 *Gambar 4: Hasil filter paket menggunakan ekspresi "http".*
 
 ### 4.5 Analisis Detail Paket HTTP GET
 Pada bagian ini, dipilih paket **HTTP GET** yang dikirim dari komputer klien ke server `gaia.cs.umass.edu`. Detail protokol ditampilkan secara hierarkis.
 
-![Detail Paket HTTP](images/wireshark_http_detail.png)
+![Detail Paket HTTP](assets/wireshark_http_detail.png)
 *Gambar 5: Detail paket HTTP GET dengan protokol lain diminimalkan.*
 
 **Penjelasan Detail Paket:**
@@ -109,7 +109,7 @@ Pada bagian ini, dipilih paket **HTTP GET** yang dikirim dari komputer klien ke 
 ### 4.6 Konten Paket (Hex & ASCII)
 Jendela paling bawah menampilkan konten mentah dari paket dalam format heksadesimal dan ASCII.
 
-![Konten Paket](images/wireshark_packet_bytes.png)
+![Konten Paket](assets/wireshark_packet_bytes.png)
 *Gambar 6: Tampilan Packet Bytes (Hex dan ASCII).*
 
 ---
