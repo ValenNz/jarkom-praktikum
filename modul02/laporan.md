@@ -72,7 +72,7 @@ Berikut adalah langkah-langkah yang dilakukan selama praktikum Modul 2 (Test Run
 ### 4.1 Tampilan Awal Wireshark
 Berikut adalah tampilan awal Wireshark saat pertama kali dibuka sebelum melakukan capture paket. Terlihat daftar interface jaringan yang tersedia.
 
-![Tampilan Awal Wireshark](images/wireshark_home.png)
+![Tampilan Awal Wireshark](asssets/)
 *Gambar 1: Tampilan awal Wireshark (Welcome Screen).*
 
 ### 4.2 Memilih Interface Capture
