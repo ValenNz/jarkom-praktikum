@@ -4,11 +4,9 @@
 ### Identitas Praktikan
 | Item | Keterangan |
 |------|------------|
-| **Nama** | [Isi Nama Lengkap Anda] |
-| **NIM** | [Isi NIM Anda] |
-| **Kelas** | [Isi Kelas Praktikum Anda] |
-| **Tanggal** | [Isi Tanggal Praktikum] |
-| **Asisten** | [Isi Nama Asisten jika ada] |
+| **Nama** | Nuevalen Refitra Alswando |
+| **NIM** | 103072430008 |
+| **Kelas** | IF-04-01 |
 
 ---
 
