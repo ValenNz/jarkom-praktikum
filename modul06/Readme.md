@@ -1,5 +1,3 @@
-Saya akan memperbaiki laporan berdasarkan screenshot Wireshark yang Anda berikan. Berikut adalah revisi yang diperlukan:
-
 # Laporan Praktikum Jaringan Komputer - Modul 6
 ## Transmission Control Protocol (TCP) Analysis
 
