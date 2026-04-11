@@ -22,13 +22,13 @@ Sebelum memulai praktikum, dilakukan pengecekan dan instalasi tools yang wajib d
 
 ### 2.1 Wireshark
 Wireshark adalah aplikasi packet sniffer yang digunakan untuk menganalisis protokol jaringan.
-- **Status:** Terinstall ✅
+- **Status:** Terinstall
 - **Versi:** [Isi Versi Wireshark Anda, misal: 4.0.3]
 - **Link Download:** [www.wireshark.org](http://www.wireshark.org/)
 
 ### 2.2 Python
 Python digunakan untuk modul Socket Programming.
-- **Status:** Terinstall ✅
+- **Status:** Terinstall
 - **Versi:** [Isi Versi Python Anda, misal: 3.11.0]
 - **Link Download:** [www.python.org](https://www.python.org/downloads/)
 
